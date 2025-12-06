@@ -1,4 +1,4 @@
-# 🎨 AI Story Generator from Images
+# AI Story Generator from Images
 
 Turn your images into captivating stories with AI-powered narration!
 
